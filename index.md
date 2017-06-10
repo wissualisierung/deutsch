@@ -32,7 +32,7 @@ Quiz "Verbflexion (starke / schwache Verben)":
 [Download der zip-Datei (SCORM)](https://wissualisierung.github.io/deutsch/Download/Verbflexion/Verbtester.zip)
 
 Quiz "Verbflexion (besondere Verben)":
-[Download der zip-Datei (SCORM)](https://wissualisierung.github.io/deutsch/Download/Verbflexion/_Verbtester-besondere_Verben.zip)
+[Download der zip-Datei (SCORM)](https://wissualisierung.github.io/deutsch/Download/Verbflexion/Verbtester-besondere_Verben.zip)
 
 ### Erec - traeume eines verligenen (v.0.10.5)
 Eine spielerische Vertiefung der Geschichte um Erec, den tapferen und edlen Ritter. 'Erec - träume eines verligenen' - ein Jump&Run-Spiel, das die groben Handlungsstränge des Romans nachzeichnet. 
