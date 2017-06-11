@@ -1,5 +1,5 @@
 ## Ältere deutsche Literaturwissenschaft
-Achtung: Die folgenden Anwendungen sind 2015 im universitären Rahmen entstanden. Sie wurden als Bestandteil eines einführenden Tutoriums genutzt und werden aktuell nicht mehr aktiv gepflegt. 
+Achtung: Die folgenden Anwendungen sind zwischen 2013 und 2016 im universitären Rahmen entstanden. Sie wurden als Bestandteil eines einführenden Tutoriums genutzt und werden aktuell nicht mehr aktiv gepflegt. 
 
 Unten finden Sie auch den vollständigen Kurs als MBZ-Download. Dieser enthält alle angeführten Anwendungen sowie weiterführende PDFs. Sie können die MBZ-Datei in Moodle importieren und direkt nutzen oder an Ihre Anforderungen anpassen. 
 
