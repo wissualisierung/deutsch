@@ -57,6 +57,8 @@ Installationshinweis (EXE): Archiv entpacken (z.B. mit 7-zip) und OpenAL install
 
 Installationshinweis (APK): APK einfach direkt auf das Android-Gerät laden oder über USB vom Computer aus installieren. Aktivieren Sie in Ihrem Android-Handy unter "Einstellungen – Anwendungen" per Haken die "Unbekannten Quellen“. Ab Android 4.0 finden Sie diese Option unter "Einstellungen - Sicherheit". Berechtigungen sind nicht erforderlich, das Spiel kann auch auf der SD-Karte installiert oder auf diese verschoben werden.
 
+---
+
 ### Moodle-Einführungskurs
 
 ![Moodle-Logo](https://wissualisierung.github.io/deutsch/Download/Moodle/Moodle-logo-large.png)
