@@ -10,7 +10,7 @@ Einen Überblick über die jeweiligen Besonderheiten der verschiedenen Dialektr�
 
 [Download der zip-Datei (SCORM)](https://wissualisierung.github.io/deutsch/Download/Lautverschiebung/Lautverschiebung 2.zip)
 
-### Übung zu Laut- und Bedeutungswandel
+### Übung zum Lautwandel
 
 ![Screenshot Lautwandel](https://wissualisierung.github.io/deutsch/Download/Screenshots/lautwandel.png)
 
@@ -18,6 +18,8 @@ Im Laufe der Zeit verändern sich in Wörtern bestimmte Vokale und Konsonanten. 
 
 Quiz "Lautwandel":
 [Download der zip-Datei (SCORM)](https://wissualisierung.github.io/deutsch/Download/Lautwandel/Lautwandel.zip)
+
+### Übung zum Bedeutungswandel
 
 ![Screenshot Bedeutungswandel](https://wissualisierung.github.io/deutsch/Download/Screenshots/bedeutungswandel.png)
 
