@@ -56,3 +56,13 @@ Eine spielerische Vertiefung der Geschichte um Erec, den tapferen und edlen Ritt
 Installationshinweis (EXE): Archiv entpacken (z.B. mit 7-zip) und OpenAL installieren. Erec kann anschließend ohne weitere Installation durch Doppelklick auf die EXE (im Ordner Main) oder die Verknüpfung gestartet werden. 
 
 Installationshinweis (APK): APK einfach direkt auf das Android-Gerät laden oder über USB vom Computer aus installieren. Aktivieren Sie in Ihrem Android-Handy unter "Einstellungen – Anwendungen" per Haken die "Unbekannten Quellen“. Ab Android 4.0 finden Sie diese Option unter "Einstellungen - Sicherheit". Berechtigungen sind nicht erforderlich, das Spiel kann auch auf der SD-Karte installiert oder auf diese verschoben werden.
+
+### Moodle-Einführungskurs
+
+![Moodle-Logo](https://wissualisierung.github.io/deutsch/Download/Moodle/Moodle-logo-large.png)
+
+Ein teilvirtuelles E-Learning-Konzept zur Einführung in die mittelhochdeutsche Sprache und Literatur. Sie können diese Datei direkt in Moodle importieren und haben einen vollständig eingerichteten Kurs mit den oben angeführten Einheiten sowie weiterführenden PDFs. 
+
+[Download des Moodle-Kurses (RAR/MBZ)](https://www.magentacloud.de/share/2xwkc55t-7)
+
+[Methodisch-didaktischer Kurzkommentar (PDF)](https://wissualisierung.github.io/deutsch/Download/Moodle/Methodisch-didaktischer Kommentar_2013.pdf)
