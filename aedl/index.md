@@ -3,7 +3,7 @@ Achtung: Die folgenden Anwendungen sind 2015 im universitären Rahmen entstanden
 
 ### Animation zu den Besonderheiten der Dialekträume
 
-![Screenshot Lautverschiebung](https://wissualisierung.github.io/deutsch/Download/Screenshot/lautverschiebung.png)
+![Screenshot Lautverschiebung](https://wissualisierung.github.io/deutsch/Download/Screenshots/lautverschiebung.png)
 
 Die sogenannte zweite Lautverschiebung trennt das Hochdeutsche von den übrigen westgermanischen Sprachen; deshalb nennt man sie auch hochdeutsche Lautverschiebung. Dieser Prozess vollzog sich wohl im 6.-7./8. Jahrhundert. Der niederdeutsche Sprachraum wurde vom hochdeutschen Sprachraum entlang der Benrather Linie abgetrennt. Unsere mittelhochdeutschen Texte stammen also aus dem Raum südlich der Benrather Linie. Im Niederdeutschen zeigt sich keine Verschiebung (genauso wie im Englischen), im mitteldeutschen und oberdeutschen Sprachgebiet erfolgt die Verschiebung landschaftlich unterschiedlich.
 Einen Überblick über die jeweiligen Besonderheiten der verschiedenen Dialekträume können Sie hier gewinnen.
@@ -12,14 +12,14 @@ Einen Überblick über die jeweiligen Besonderheiten der verschiedenen Dialektr�
 
 ### Übung zu Laut- und Bedeutungswandel
 
-![Screenshot Lautwandel](https://wissualisierung.github.io/deutsch/Download/Screenshot/lautwandel.png)
+![Screenshot Lautwandel](https://wissualisierung.github.io/deutsch/Download/Screenshots/lautwandel.png)
 
 Im Laufe der Zeit verändern sich in Wörtern bestimmte Vokale und Konsonanten. Während die 1. und 2. Lautverschiebung komplette Lautgruppen betroffen haben, gab (und gibt) es immer wieder auch Wandelprozesse, die nur einzelne Laute veränderten. Man spricht vom Lautwandel. Viele der Lautwandelprozesse setzten sich erst im Frühneuhochdeutschen durch, haben ihren Ursprung indes bereits in mittelhochdeutscher Zeit. Die Lautgesetze, die Sie hier lernen, können Ihnen bei der Erschließung auch scheinbar unbekannter Wörter hilfreich sein. 
 
 Quiz "Lautwandel":
 [Download der zip-Datei (SCORM)](https://wissualisierung.github.io/deutsch/Download/Lautwandel/Lautwandel.zip)
 
-![Screenshot Bedeutungswandel](https://wissualisierung.github.io/deutsch/Download/Screenshot/bedeutungswandel.png)
+![Screenshot Bedeutungswandel](https://wissualisierung.github.io/deutsch/Download/Screenshots/bedeutungswandel.png)
 
 Auch die Wortbedeutung ändert sich mit der Zeit. Mit diesem Quiz können Sie einige der wichtigsten Prozesse einüben, die sich bis heute auf die Semantik auswirken. Die mhd. Wörter werden zufällig aus einer Datenbank zugelost, so dass die Übung wiederholt durchgeführt werden kann.
 
@@ -28,7 +28,7 @@ Quiz "Bedeutungswandel":
 
 ### Verbflexion
 
-![Screenshot Verbflexion](https://wissualisierung.github.io/deutsch/Download/Screenshot/verbflexion.png)
+![Screenshot Verbflexion](https://wissualisierung.github.io/deutsch/Download/Screenshots/verbflexion.png)
 
 Woher kommen die unterschiedlichen Flexionsarten des Deutschen? Woran erkennt man sie? Und welcher grundsätzliche Unterschied besteht eigentlich zwischen den beiden Arten der Verbflexion?
 Diese und ähnliche Fragen können Sie nach der Bearbeitung dieser Lerneinheit sicher beantworten! Behandelt wird der Unterschied zwischen starker und schwacher Flexion, ihre jeweiligen Besonderheiten und auch Alter/Herkunft der Verbgruppen. 
