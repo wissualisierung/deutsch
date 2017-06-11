@@ -63,7 +63,7 @@ Installationshinweis (APK): APK einfach direkt auf das Android-Gerät laden oder
 
 ![Moodle-Logo](https://wissualisierung.github.io/deutsch/Download/Moodle/Moodle-logo-large.png)
 
-Ein teilvirtuelles E-Learning-Konzept zur Einführung in die mittelhochdeutsche Sprache und Literatur. Sie können diese Datei direkt in Moodle importieren und haben einen vollständig eingerichteten Kurs mit den oben angeführten Einheiten sowie weiterführenden PDFs. 
+Ein vollständiges, teilvirtuelles E-Learning-Konzept zur Einführung in die mittelhochdeutsche Sprache und Literatur. Sie können diese Datei direkt in Moodle importieren und haben einen vollständig eingerichteten Kurs mit den oben angeführten Einheiten sowie weiterführenden PDFs. 
 
 [Download des Moodle-Kurses (RAR/MBZ)](https://www.magentacloud.de/share/2xwkc55t-7)
 
