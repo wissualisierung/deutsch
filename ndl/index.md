@@ -8,4 +8,7 @@ Aufgrund der besseren HTML5-Unterstützung empfiehlt sich für die angeführten 
 #### Metrik
 ![Screenshot des Videos](https://wissualisierung.github.io/deutsch/ndl/Metrik-Quiz_web/Screenshot.png)
 Interaktives Video zu den Grundlagen der Metrik mit Übungen: 
-[Start der Anwendung im Browser](https://wissualisierung.github.io/deutsch/ndl/Metrik-Quiz_web/index.html)
+
+[Start des interaktiven Videos im Browser](https://wissualisierung.github.io/deutsch/ndl/Metrik-Quiz_web/index.html)
+
+Sie können jederzeit zum Pausieren in das Video klicken!
