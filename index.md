@@ -6,3 +6,6 @@ Auf dieser Projektseite finden Sie die bereits veröffentlichten OER zu diesem T
 
 ## Ältere deutsche Literaturwissenschaft
 [Projekt-Seite](https://wissualisierung.github.io/deutsch/aedl/)
+
+## Neuere deutsche Literaturwissenschaft
+[Projekt-Seite](https://wissualisierung.github.io/deutsch/ndl/)
