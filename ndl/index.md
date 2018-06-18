@@ -7,6 +7,11 @@ Aufgrund der besseren HTML5-Unterstützung empfiehlt sich für die angeführten 
 ### Lyrik
 #### Metrik
 ![Screenshot des Videos](https://wissualisierung.github.io/deutsch/ndl/Metrik-Quiz_web/Screenshot.png)
+
+Präsentation zu den Grundlagen der Metrik:
+
+[Start der Präsentation im Browser](https://wissualisierung.github.io/deutsch/ndl/Metrik/index.html)
+
 Interaktives Video zu den Grundlagen der Metrik mit Übungen: 
 
 [Start des interaktiven Videos im Browser](https://wissualisierung.github.io/deutsch/ndl/Metrik-Quiz_web/index.html)
